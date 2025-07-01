@@ -9,7 +9,7 @@ function Contact() {
           <p>I'm always open to discussing new opportunities and interesting projects.</p>
           <div className="contact-links">
             <a href="mailto:sharanya.2527@gmail.com" className="contact-link">
-              📧 your.email@example.com
+              📧 sharanya.2527@gmail.com
             </a>
             <a href="www.linkedin.com/in/sharanya-maru" className="contact-link">
               💼 LinkedIn

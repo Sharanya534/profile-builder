@@ -4,9 +4,10 @@ function Header() {
   return (
     <header className="header">
       <nav className="nav">
-        <div className="nav-brand">Portfolio</div>
+        <div className="nav-brand">Sharanya M</div>
         <div className="nav-links">
           <a href="#about">About</a>
+          <a href="#skills">Skills</a>
           <a href="#projects">Work</a>
           <a href="#contact">Contact</a>
         </div>
